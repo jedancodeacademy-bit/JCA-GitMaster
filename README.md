@@ -64,11 +64,11 @@ Safely exit the learning system.
    ```
 2. **Make the script executable (Linux/macOS):**
    ```
-   chmod +x git-master.sh
+   chmod +x jca-git-master.sh
    ```
 3. **Run the learning system:**
    ```
-   ./git-master.sh
+   ./jca-git-master.sh
    ```  
 
 ## 🛠 Prerequisites
